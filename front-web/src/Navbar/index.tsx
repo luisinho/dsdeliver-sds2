@@ -8,7 +8,7 @@ function Navbar() {
             < Logo />
             <Link to="/" className="logo-text"> DS Delivery</Link>
         </nav>
-    )
+    );
 }
 
 export default Navbar;

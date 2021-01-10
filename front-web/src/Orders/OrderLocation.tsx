@@ -83,7 +83,7 @@ function OrderLocation({ onChangeLocation }: Props) {
                 </MapContainer>
             </div>
         </div >
-    )
+    );
 }
 
 export default OrderLocation;

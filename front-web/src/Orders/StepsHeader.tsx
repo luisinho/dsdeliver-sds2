@@ -18,7 +18,7 @@ function StepsHeader() {
                 </ul>
             </div>
         </header>
-    )
+    );
 }
 
 export default StepsHeader;
